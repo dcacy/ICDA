@@ -24,16 +24,16 @@ Please do not submit pull requests or issues to this repository, as it is not be
   jaxen-1.1.1.jar
 ```
 
-1. Compile/run with a Java 1.6 JRE.
+2. Compile/run with a Java 1.6 JRE.
 
  this is a line
  and thie is 
   and tanother  
   third line
 
-1. Edit the `icda.properties` file.
+3. Edit the `icda.properties` file.
 
-1. Run with the following command: 
+4. Run with the following command: 
 
 
   ```
@@ -65,7 +65,7 @@ IBM JRE 1.6, Oracle JRE 1.6+ are supported. IBM JRE 1.7+ are not supported becau
 
 ### Properties file
 
-The tool uses a properties file called `icda.properties`. Set `connections.url` to point to the URL of the Connections server.
+The tool uses a properties file called **icda.properties**. Set `connections.url` to point to the URL of the Connections server.
 
 ```none
 connections.url=https://connections.ibm.com
@@ -73,7 +73,7 @@ connections.url=https://connections.ibm.com
 
 #### Login details
 
-The application only supports Basic Authentication. This means that if your Connections server has federated users, it will not work. For an on premises Connections server which is not federated, set `auth.login.attr` to `uid`; for a Connections Cloud instance, use `mail`.
+The application only supports Basic Authentication. This means that if your Connections server has federated users, **it will not work**. For an on premises Connections server which is not federated, set `auth.login.attr` to `uid`; for a Connections Cloud instance, use `mail`.
 
 ```
 auth.type=basic
@@ -82,7 +82,7 @@ auth.login.attr=uid
 
 #### Content files
 
-The `data` directory contains the files to be used for export or import. The properties file should point to them:
+The **data** directory contains the files to be used for export or import. The properties file should point to them:
 
 ```
 file.data.import=import.xml
@@ -101,7 +101,7 @@ export.community.owner.uid=fadams
 
 #### Users
 
-The property file points to the XML file in the `data` directory which contains information about the users in your environment.
+The property file points to the XML file in the **data** directory which contains information about the users in your environment.
 
 ```
 file.data.users=greenwell_users.xml
@@ -138,9 +138,9 @@ To export communities created by a specific set of users, provide a comma-separa
 <communities>dmisawa,fadams</communities>
 ```
 
-Note: these settings are overridden by setting the `export.community` values in `icda.properties` (see above).
+Note: these settings are overridden by setting the `export.community` values in **icda.properties** (see above).
 
-When you run the export, an XML file will be created in the `data` directory containing the exported data. Any files downloaded will be in the `files` directory. **Existing files will be overwritten.**
+When you run the export, an XML file will be created in the **data** directory containing the exported data. Any files downloaded will be in the **files** directory. **Existing files will be overwritten.**
 
 Run the application with:
 ```
