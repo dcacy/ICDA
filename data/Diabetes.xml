@@ -1,0 +1,594 @@
+<icda>
+ <communities>
+      <community user="simdray">
+         <title>Diabetes Care Community</title>
+         <content><![CDATA[<p dir="ltr">The Diabetes Care Community is a community of people with diabetes, family members, friends, supporters and caregivers, offering their own support and first hand knowledge.</p>]]></content>
+         <type>public</type>
+         <isExternal>false</isExternal>
+         <logo>327dd242-67ab-4d6f-bc6a-81204c6d7a6a.png</logo>
+         <tags>community,diabetes,healthcare</tags>
+         <members>
+            <member role="owner" user="simdray"/>
+            <member role="owner" user="pclemmons"/>
+            <member role="member" user="vhanley"/>
+            <member role="member" user="pdumont"/>
+            <member role="member" user="siduma"/>
+            <member role="member" user="gbandini"/>
+            <member role="member" user="fadams"/>
+            <member role="member" user="eelamon"/>
+            <member role="member" user="abauer"/>
+         </members>
+         <forums>
+            <forum user="simdray">
+               <title>Diabetes Care Community</title>
+               <content/>
+               <topics>
+                  <topic user="eelamon">
+                     <title>This forum is SO helpful!</title>
+                     <content><![CDATA[<div class="entry-content lotusPostDetails" dir="ltr">
+      <p dir="ltr">
+        Hi, I was diagnosed with Type 2 a week ago, (HbA1c of 91) but its taken until today to get to see the nurse and get a blood monitor and discuss it (my doctor didn't have very long once he'd given me the diagnosis.
+      </p>
+      <p dir="ltr">
+        I've spent that week reading up on diabetes and this forum has been so helpful in helping me see what might be involved now i'm living with this condition. I was able to go into my appointment today understanding the test result and to advise i have already started a Newcastle type very low calorie low carb diet plan (using real food not liquid replacements. I would never have even known how to go about such dietary changes without extensive reading of numerous threads on this forum and I just wanted to say thank you to everyone who posts here.
+      </p>
+      <p dir="ltr">
+        The nurse is happy for me to try this approach for 3 months initially which was a relief, as the practice leaflet i was given a week ago only mentions general healthy eating including lots of carbs so I was worried I might have some opposition to what i want to do, but she was very amenable even though she didn't know much about it. I felt more of an expert than her after just a week of research!
+      </p>
+      <p dir="ltr">
+        I'm hoping to improve my HbA1c significantly by the time I go back for another test in 3 months and I have already lost 7 pounds (probably mostly water I know) in just a week and I'm happy I know what I should be doing which is a big change from the day of my diagnosis when i was pretty clueless, rather shocked and definitely confused about what i should be eating from now on. So thank you again for all the info I've gained from this site : )
+      </p>
+    </div>]]></content>
+                     <likes>
+                        <like user="eelamon"/>
+                     </likes>
+                  </topic>
+                  <topic user="vhanley">
+                     <title>Gliclazide or glimepiride</title>
+                     <content><![CDATA[
+    <p dir="ltr">
+      Seeing the GP this afternoon. My BG reading is 11.2 - even though my last HBa1c was "only" 5.7 and done only 1 month ago. If I am told I have to go on<br />
+       gliclazide or glimepiride, which should I choose? I haven't a clue - except have been told glimepiride is the best one.
+    </p>
+    <p dir="ltr">
+      If so what would be a starting dose? Needless to say I'm scared witless. My feet have been feeling cold for a few weeks now (even though they are not) and had painful stinging in the legs - but I also have a lower back problem so is a bit complicated.
+    </p>
+    <p dir="ltr">
+      Thank you for any help or advice.
+    </p>
+  ]]></content>
+                     <question>true</question>
+                     <replies>
+                        <reply user="simdray">
+                           <title>Re: Gliclazide or glimepiride</title>
+                           <content><![CDATA[<p dir="ltr">
+      Hi Vivian. Gliclazide MR is at least as effective as glimepiride, either as monotherapy or in combination. The safety of gliclazide MR was significantly better, demonstrating approximately 50% fewer confirmed hypoglycaemic episodes in comparison with glimepiride. Please let me know if you have any questions.
+    </p>]]></content>
+                           <reply user="pdumont">
+                              <title>Re: Gliclazide or glimepiride</title>
+                              <content><![CDATA[<p dir="ltr">
+      Here is some more information. HbA1c decreased similarly in both groups from 8.4% to 7.2% on gliclazide MR and from 8.2% to 7.2% on glimepiride. Approximately 50% of the patients achieved HbA1c levels less than 7%, and 25% less than 6.5%. The mean difference between groups of the final HbA1c was -0.06% (noninferiority test P &lt; 0.0001). No hypoglycaemia requiring external assistance occurred. Hypoglycaemia with blood glucose level &lt; 3 mmol L(-1) occurred significantly less frequently (P = 0.003) with gliclazide MR (3.7% of patients) compared with glimepiride (8.9% of patients). The distribution of the sulphonylurea doses was similar in both groups
+    </p>]]></content>
+                           </reply>
+                        </reply>
+                     </replies>
+                  </topic>
+                  <topic user="gbandini">
+                     <title>Insulin Calculations???</title>
+                     <content><![CDATA[
+    <p dir="ltr">
+      Are there any good apps for helping calculate my insulin dosage based on my blood glucose levels?
+    </p>
+  ]]></content>
+                     <question>true</question>
+                     <answered>true</answered>
+                     <likes>
+                        <like user="pdumont"/>
+                        <like user="siduma"/>
+                        <like user="fadams"/>
+                        <like user="smaiti"/>
+                     </likes>
+                     <replies>
+                        <reply user="simdray">
+                           <title>Re: Insulin Calculations???</title>
+                           <content><![CDATA[<p dir="ltr">
+      The American Diabetes Association has a good one. It can be found here.
+    </p>
+    <p dir="ltr">
+      <a href="http://www.diabetes.org/are-you-at-risk/tools-to-know-your-risk/bmi-calculator.html" target="_blank">BMICalculator</a>
+    </p>]]></content>
+                           <answer>true</answer>
+                           <reply user="gbandini">
+                              <title>Re: Insulin Calculations???</title>
+                              <content><![CDATA[<p dir="ltr">
+      Thanks for the speedy answer.
+    </p>]]></content>
+                           </reply>
+                        </reply>
+                     </replies>
+                  </topic>
+                  <topic user="siduma">
+                     <title>My son is not allowed to particapte at school since being diagnosed with diabetes.</title>
+                     <content><![CDATA[
+    <p dir="ltr">
+      Our Sons school feared a lawsuit if any of its school staff gave him his shots, so I became his caregiver at school. I travel from my office to my sons school around noon each day to give him an insulin shot. This has been going on for several months. And because nobody at the school was trained about diabetes, my son is not allowed to participate in after-school programs and activities. This just does not seem right to me. Anyone else having this problem with their kids at school?
+    </p>
+  ]]></content>
+                     <question>true</question>
+                     <replies>
+                        <reply user="simdray">
+                           <title>Re: My son is not allowed to particapte at school since being diagnosed with diabetes.</title>
+                           <content><![CDATA[<p dir="ltr">
+      The entire situation bust be frustrating for you and your family and seemed unfair to your son. Please contact the American Diabetes Association for help. They have Legal Advocates at the Association (a lawyer experienced in diabetes discrimination) that will let you know about your sons legal rights. Under federal law your sons school has to provide him proper diabetes care. Please let me know if I can help in any way.
+    </p>]]></content>
+                           <likes>
+                              <like user="simdray"/>
+                           </likes>
+                        </reply>
+                     </replies>
+                  </topic>
+               </topics>
+            </forum>
+         </forums>
+         <bookmarks>
+            <bookmark user="pdumont">
+               <title>MedLine Plus - Diabetes</title>
+               <content/>
+               <link><![CDATA[https://www.nlm.nih.gov/medlineplus/diabetes.html]]></link>
+               <tags>diabetes</tags>
+            </bookmark>
+            <bookmark user="simdray">
+               <title>American Diabetes Association</title>
+               <content/>
+               <link><![CDATA[http://www.diabetes.org/]]></link>
+               <tags>diabetes</tags>
+            </bookmark>
+         </bookmarks>
+         <files>
+            <file user="simdray">
+               <label>Tienda Diabetes.pdf</label>
+               <type>application/pdf</type>
+               <summary/>
+               <visibility>private</visibility>
+               <tags>diabetes,tienda</tags>
+            </file>
+            <file user="simdray">
+               <label>Using collaboration technologies for healthcare in the home.pdf</label>
+               <type>application/pdf</type>
+               <summary/>
+               <visibility>private</visibility>
+               <tags>diabetes,healthcare</tags>
+            </file>
+            <file user="simdray">
+               <label>diabetesfact1.jpg</label>
+               <type>image/jpeg</type>
+               <summary/>
+               <visibility>private</visibility>
+               <tags>diabetes</tags>
+            </file>
+            <file user="simdray">
+               <label>diabetesfact2.jpg</label>
+               <type>image/jpeg</type>
+               <summary/>
+               <visibility>private</visibility>
+               <tags>diabetes,facts</tags>
+            </file>
+            <file user="simdray">
+               <label>diabetesfact3.jpg</label>
+               <type>image/jpeg</type>
+               <summary/>
+               <visibility>private</visibility>
+               <tags>diabetes,facts</tags>
+            </file>
+         </files>
+         <blogs>
+            <communityblog user="simdray">
+               <title>IBM and Medtronic to Partner to Improve Diabetes Care</title>
+               <handle>327dd242-67ab-4d6f-bc6a-81204c6d7a6a</handle>
+               <summary/>
+               <posts>
+                  <post user="simdray">
+                     <title>Essential Diabetes Tips - 5 Top Tips</title>
+                     <content><![CDATA[<p dir="ltr">Whether you are newly diagnosed or due for a re-cap on the basics, these 5 essentials of diabetes management help you take a step back and ask yourself whether the basics are being met.</p>
+
+
+
+<h2 dir="ltr">Read up on diabetes</h2>
+
+
+
+<p dir="ltr">Knowledge is one of the best ways to beat diabetes. Diabetes is able to affect our whole body so there can be a lot to take in and sometimes when we absorb the information in small occasional chunks, it can leave us quite confused.</p>
+
+
+
+<p dir="ltr">Thankfully, there are some great books available which break down what we need to know in a really well structured way.</p>
+
+
+
+<p dir="ltr">As well as providing a solid foundation for understanding diabetes, books can be a cost effective way to improve our diabetes management.</p>
+
+
+
+<p dir="ltr">A quality book on diabetes will often cost no more than a tub of test strips.</p>
+
+
+
+<p dir="ltr">Every one with diabetes should aim to get hold of at least one really good book on the subject.</p>
+
+
+
+<ul dir="ltr">
+
+	<li>Diabetes book reviews</li>
+
+</ul>
+
+
+
+<h2 dir="ltr">Test and record your blood sugars</h2>
+
+
+
+<p dir="ltr">Once you have read up on diabetes, the next stage is to take your understanding forward on a personal level &ndash; how diabetes affects you.</p>
+
+
+
+<p dir="ltr">Testing will not only let you see how you're doing on a regular basis, but it should also help you understand your diabetes and inform your decision making.</p>
+
+
+
+<p dir="ltr">This could include helping to choose a suitable diet, knowing how activity affects you and how stressful days and illness need to be managed.</p>
+
+
+
+<p dir="ltr">Furthermore, the more detail you record, the better prepared you will be for doctor's appointments.</p>
+
+
+
+<ul dir="ltr">
+
+	<li>Blood glucose levels</li>
+
+	<li>Free blood glucose diary</li>
+
+</ul>
+
+
+
+<p dir="ltr">Some people, particularly those with type 2 diabetes, have experienced difficulty with being prescribed blood glucose testing strips. Read more on <a href="http://www.diabetes.co.uk/nhs/availability-of-test-strips.html">availability of test strips</a>.</p>
+
+
+
+<h2 dir="ltr">Pick a good diet for your diabetes</h2>
+
+
+
+<p dir="ltr">A good diet will help in a myriad of ways. It can help improve:</p>
+
+
+
+<ul dir="ltr">
+
+	<li>Blood sugar levels</li>
+
+	<li>Improve blood pressure and cholesterol</li>
+
+	<li>Reduce tiredness</li>
+
+	<li>Improve digestion and</li>
+
+	<li>Can significantly improve clarity of thought</li>
+
+</ul>
+
+
+
+<p dir="ltr">Diet can be one of the most confusing aspects for people with diabetes as so much information is contradictory.</p>
+
+
+
+<p dir="ltr">Even with the conflicting information out there, there are some common themes that run through, such as eating foods with plenty of fibre and a <a href="http://www.diabetes.co.uk/diet/glycaemic-index-diet-and-diabetes.html">low glycaemic index</a>.</p>
+
+
+
+<p dir="ltr">Vegetables and unsalted nuts fit the criteria well. Fish is a good pick and good quality lean meats are generally well regarded.</p>
+
+
+
+<h2 dir="ltr">Include some activity each day</h2>
+
+
+
+<p dir="ltr">Just a little activity each day can help to improve our health and it can also help us to feel more energetic through the day.</p>
+
+
+
+<p dir="ltr">Activity needn't mean taking out a gym subscription, a 20 minute walk or even 15 minutes of press ups and/or aerobics in your own living room will get the heart pumping.</p>
+
+
+
+<p dir="ltr">The effect of regular activity is also known to help increase insulin sensitivity, which can be useful for all types of diabetes, particularly type 2 diabetes.</p>
+
+
+
+<ul dir="ltr">
+
+	<li>Diabetes and keeping active</li>
+
+</ul>
+
+
+
+<h2 dir="ltr">Talk about your diabetes</h2>
+
+
+
+<p dir="ltr">With diabetes able to affect so many parts of our life, there are frequently times when need someone to talk things over with.</p>
+
+
+
+<p dir="ltr">Sometimes simply talking about our diabetes can help us to understand it better.</p>
+
+
+
+<p dir="ltr">The Diabetes Forum is great way to connect with other people with diabetes. Put together, our forum members contribute well over <em>100,000 years</em> of diabetes experience!</p>]]></content>
+                     <likes>
+                        <like user="simdray"/>
+                     </likes>
+                  </post>
+                  <post user="pdumont">
+                     <title>Keeping Active</title>
+                     <content><![CDATA[<div class="entryContentContainer blogsWrapText" dir="ltr" role="article">
+
+<p dir="ltr">Keeping active is an important part of one's lifestyle, and particularly for those who either have or are at risk of diabetes.</p>
+
+
+
+<p dir="ltr">Even a little extra activity can have a lot of benefits, such as improving insulin sensitivity, improving your feeling of well being, controlling your weight, reducing risks of cancer and heart problems and helping strengthen bones as well as muscles.</p>
+
+
+
+<h2 dir="ltr">How much activity should I be doing?</h2>
+
+
+
+<p dir="ltr">Any extra activity you can fit into your day is a plus. The minimum recommended level of activity is 30 minutes at least 5 days a week.</p>
+
+
+
+<p dir="ltr">Children should aim for at least an hour a day. The British Heart Foundation recommends that we take 10,000 steps per day to promote a healthy heart; this is equivalent to about 5 miles.</p>
+
+
+
+<h2 dir="ltr">What counts as activity?</h2>
+
+
+
+<p dir="ltr">Activity counts as anything that will up your heart rate a little.</p>
+
+
+
+<p dir="ltr">This could include any of the following:</p>
+
+
+
+<ul dir="ltr">
+
+	<li>a brisk walk</li>
+
+	<li>climbing flights of stairs</li>
+
+	<li>shopping (not internet shopping though!)</li>
+
+	<li>gardening</li>
+
+	<li>housework</li>
+
+	<li>DIY</li>
+
+	<li>dancing</li>
+
+	<li>yoga, pilates, tai chi</li>
+
+	<li>active sports</li>
+
+</ul>
+
+
+
+<h2 dir="ltr">Motivation towards being more active</h2>
+
+
+
+<p dir="ltr">Some people find it difficult to commit to being more active citing not having enough time as one of the reasons. Whilst activity does involve some investment of time, in the longer run, a little activity or exercise can help to free up time as well as providing you with more vitality.</p>
+
+</div>]]></content>
+                     <likes>
+                        <like user="fadams"/>
+                     </likes>
+                  </post>
+                  <post user="simdray">
+                     <title>Using collaborative technologies for healthcare in the home</title>
+                     <content><![CDATA[<p dir="ltr">The Centers for Disease Control and Prevention (CDC) estimated that, in the United States, the number of people diagnosed with diabetes increased from 5.8 million in 1980 to 15.8 million in 2005; and as of 2009, 23.6 million people have diabetes.</p>
+
+
+
+<p dir="ltr">More than most chronic diseases, diabetes often requires behavioral and medication changes supported by frequent feedback and support from care providers. Technological advances have made it possible for people with diabetes and other chronic illnesses to increase the amount of communication with their care providers and family members using Internet-based software products. This increase in communication between caregivers and patients represents more of a "continued care" model of healthcare that improves patient health.</p>
+
+
+
+<p dir="ltr">Recent studies have shown that an increase in patient-healthcare practitioner (HCP) interaction is linked to the successful treatment and management of diabetes. When managing diabetes using software products that modify behavior, patients generally enjoy better health than those who do not. In fact, the Diabetes Control and Complications Trial (DCCT) study at the National Institute of Health (NIH) demonstrated that individuals with Type 1 diabetes who maintain normal blood glucose levels can slow the onset and progression of eye, kidney, and nerve diseases caused by diabetes.</p>
+
+
+
+<p dir="ltr">Other clinical studies at Georgetown University Medical Center and the Boston Veteran's Administration Hospital (conducted by researchers from Brigham and Women's Hospital and Harvard Medical School), have demonstrated that the consistent use of MCT-Diabetes results in a significant reduction in average blood glucose levels as measured by HbA1C.</p>
+
+
+
+<p dir="ltr">In addition to improving patient health, continuous care using Internet-based software products benefits physicians, employers, and insurers. For example, employers will notice a reduction in expenses and increased productivity from healthier employees, and insurers will notice a decrease in medical costs resulting from diabetes and its associated complications. According to the National Council on Aging, every 1% decrease in HbA1C results in an annual 4 - 30% decrease in medical costs, depending on the patient's initial HbA1C level.</p>
+
+
+
+<h2 dir="ltr" id="N100A9">Diabetes use case</h2>
+
+
+
+<p dir="ltr">Collaborative software products enable individuals with chronic illnesses, such as diabetes, and their care providers to communicate frequently across the Internet. One such product, MCT-Diabetes from MyCareTeam, Inc, is a behavior modification tool that allows individuals with diabetes and their care providers to collaborate and monitor glucose levels along with other key data related to diabetes across the Internet. Because MCT-Diabetes data and reports are accessible over the Internet, care providers and family members, with permission, can monitor a child's glucose data while a child is away at college, and an elderly parent living in Florida can be easily monitored by a grown child who may live in Boston.</p>
+
+
+
+<p dir="ltr">MCT-Diabetes facilitates a daily commitment to self-management through the balance of lifestyle and medication. With MCT-Diabetes, patients can transmit their blood sugar readings directly from their glucose meters to a secure database using the Internet. Once the data is stored, physicians, care providers, and family members can use the tool to monitor glucose levels, understand lab values, and examine the effects that exercise and diet have on a patient's health. In addition to monitoring glucose levels, MCT-Diabetes includes carbohydrate counting, meal planning, exercise tracking, as well as the logging of medication, blood pressure and vital signs information.</p>
+
+
+
+<p dir="ltr"><a href="http://connections6.ibmcollabcloud.com/images/glucose%20meter%201.jpg" target="_blank"><img alt="image" src="http://connections6.ibmcollabcloud.com/images/glucose%20meter%201.jpg" style="  display:block; margin: 1em 1em 0pt 0pt; float: left;"></img></a></p>
+
+
+
+<div class="ibm-alternate-rule" dir="ltr">
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+</div>]]></content>
+                     <tags>glucose,lifescan,diabetes</tags>
+                     <likes>
+                        <like user="fadams"/>
+                     </likes>
+                  </post>
+                  <post user="simdray">
+                     <title>IBM and Medtronic to Partner to Improve Diabetes Care</title>
+                     <content><![CDATA[<p dir="ltr"><span>IBM and Medtronic today announced that they will work together to combine powerful analytics and cognitive computing with diabetes medical devices and health data to develop a new generation of personalized diabetes management solutions. People using Medtronic diabetes solutions could benefit from new solutions developed in collaboration with IBM's newly-formed <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/health/">Watson Health</a> unit. </span></p>
+
+
+
+<p dir="ltr"><span>With diabetes device data continuously gathered and analyzed in real-time, information can be anonymously combined with </span><span>numerous other sources of data </span>such as electronic medical records, health insurance claims and population health data to uncover patterns and predict health risks using advanced analytics models. IBM and Medtronic are exploring ways to develop diabetes care management solutions that will optimize patient outcomes and health economics, leveraging Medtronic's devices and care management offerings, including therapies and coaching, and IBM's Watson Health Cloud platform.</p>
+
+
+
+<p dir="ltr"><span>In addition, the two companies also expect to develop near real-time, dynamic personalized care plans that provide decision support for health care providers and their patients with the goal of improving care</span><span> efficiency and outcomes. IBM and Medtronic will also jointly explore ways to leverage IBM's Watson platform to improve Medtronic and partners' closed loop algorithms, which intend to mimic the function of a healthy pancreas. </span></p>
+
+
+
+<p dir="ltr"><span>Devices alone cannot transform diabetes care. The combination of leadership technologies, big data, informatics and world-class patient management are all required to drive effective results in diabetes care,&rdquo; said Hooman Hakami, executive vice president and president of the Diabetes Group at Medtronic. </span>Medtronic and IBM intend to bring these capabilities together to pioneer a new level of care that will improve outcomes and lower cost so people living with diabetes can enjoy greater freedom and bette<a href="http://connections6.ibmcollabcloud.com/images/watson3.jpg" target="_blank"><img alt="image" src="http://connections6.ibmcollabcloud.com/images/watson3.jpg" style=" width:400px;  display:block; margin: 1em 1em 0pt 0pt; float: left;"></img></a>r health.&rdquo;</p>
+
+
+
+<p dir="ltr"><span>We are building a secure, open innovation platform that could change the face of diabetes management,&rdquo; <span>said John E. Kelly III, IBM senior vice president, solutions portfolio </span></span><span><span>and research. </span>Medtronic and IBM can marry the power of analytics, cognitive computing </span>and patient engagement with the world's most sophisticated diabetes management devices to truly change how people with diabetes live.&rdquo;</p>
+
+
+
+<p dir="ltr"><span>More than 387 million people worldwide live with diabetes, according to the International Diabetes Federation (IDF). Managing diabetes is incredibly complex and costly for healthcar</span><span>e systems. The IDF also estimates that global health spending to treat diabetes and manage complications totaled at least <a href="http://www.idf.org/diabetesatlas/update-2014">$612 billion in 2014</a>. Better disease management ; including technology advancements and integrated care solutions ; can improve quality of life for millions of people with diabetes while saving healthcare dollars. </span></p>
+
+
+
+<p dir="ltr"><span>IBM's Watson H<span>ealth Cloud is a secure, open platform designed to provide IBM's clients, partners and academic researchers with access to the world's most complete view of aggregated clinical, research and social health data.</span></span></p>
+
+
+
+<p dir="ltr"><strong><span><span>About the Diabetes Group at Medtronic (www.medtronicdiabetes.com)</span></span></strong></p>
+
+
+
+<p dir="ltr"><span><span>Medtronic is working together with the global community to change the way people manage diabetes. The company aims to transform diabetes care by expanding access, integrating care and improving outcomes, so people living with diabetes can enjoy greater freedom and better health. </span></span></p>]]></content>
+                     <likes>
+                        <like user="pclemmons"/>
+                        <like user="pdumont"/>
+                        <like user="siduma"/>
+                        <like user="smaiti"/>
+                     </likes>
+                  </post>
+               </posts>
+            </communityblog>
+         </blogs>
+         <wikis>
+            <wiki user="simdray">
+               <title>Diabetes Care Community</title>
+               <summary><![CDATA[The Diabetes Care Community is a community of people with diabetes, family members, friends, supporters and caregivers, offering their own support and first hand knowledge.]]></summary>
+               <label>W28c64b119ed9_4831_b4f8_bed187e35c2d</label>
+               <visibility>PUBLIC_TO_VIEWERS</visibility>
+               <pages>
+                  <page user="simdray">
+                     <title>Welcome to Diabetes Care Community</title>
+                     <label>Welcome to Diabetes Care Community</label>
+                     <content><![CDATA[<div><p>After logging in, what you can do depends on how the wiki owners have set access. If you cannot contribute in a way that you want, click <strong>Members</strong> to find an owner and ask them to give you appropriate access. If this is a community wiki your access depends on your community membership, and you must ask a community owner to give you appropriate access.</p> <p>Here are some ways to start contributing:</p> <ul> <li>To change the wiki title, click <strong>Wiki Actions</strong> and select <strong>Edit Wiki</strong>. You must be an owner to see the <strong>Wiki Actions</strong> button.</li> <li>To edit a page click <strong>Edit</strong>.</li> <li>To create new pages click <strong>Page Actions</strong> and select <strong>Create Child</strong> or <strong>Create Peer</strong>. Child pages are created below the current page, peer pages are created at the same level.</li> <li>To move a page, click <strong>Page Actions</strong> and select <strong>Move Page</strong>.</li> <li>To be notified by email about edits or comments to a page, click <strong>Following Actions</strong> and select <strong>Follow this Page</strong>. To be notified about changes to the wiki, click <strong>Following Actions</strong> and select <strong>Follow this Wiki</strong>.</li> <li>To see previous versions of a page click <strong>Versions</strong>.</li> </ul></div>]]></content>
+                  </page>
+                  <page user="pclemmons">
+                     <title>myDiabetizer Helps Diabetic Patients Better Manage HealthNew Page</title>
+                     <label>myDiabetizer Helps Diabetic Patients Better Manage HealthNew Page</label>
+                     <content><![CDATA[<div dir="ltr">
+  <p dir="ltr">Historically, doctors have struggled with tracking a patient health patterns in between visits because patients were solely responsible for recording keeping. With the help of IBM, Germany based business partner <a href="http://ibm.co/1HMeOJ8" title="Diabetizer Ltd. &amp; Co. KG.">Diabetizer Ltd. &amp; Co. KG</a> sought to cut diabetes treatment costs while empowering patients.</p>
+  <blockquote dir="ltr">
+    <p>By integrating with Bluemix and SoftLayer, we can cut development times significantly, and we no longer need to care about issues like scalingHistorically, doctors have struggled with tracking a patient's health patterns in between visits because patients were solely responsible for recording keeping. &nbsp;With the help of IBM, Germany based business partner <a href="http://ibm.co/1HMeOJ8" title="Diabetizer Ltd. &amp; Co. KG.">Diabetizer Ltd. &amp; Co. KG</a> sought to cut diabetes treatment costs while empowering patients.</p>
+    <blockquote dir="ltr">
+      <p>By integrating with Bluemix and SoftLayer, we can cut development times significantly, and we no longer need to care about issues like scaling<img src="http://connections6.ibmcollabcloud.com/images/diabetizer_logo.png" style="margin: 10px; float: right;" />
+        <br /><cite>Robin Hrassnigg, CEO at Diabetizer</cite></p>
+    </blockquote>
+    <p dir="ltr">To supplement its health reporting web portal, Diabetizer created an app that tracks health data automatically. Leveraging the IBM Innovation Center in Switzerland, Diabetizer restructured the code for its web application for the myDiabetizer mobile application. myDiabetizer provides aggregated nutrition and fitness information to physicians from other medical devices and health tools. </p>
+    <p dir="ltr">Using IBM Bluemix and SoftLayer, Diabetizer was able to accelerate development and deployment timelines for services and capabilities, which led to a 30% reduction in operating costs.</p>style="margin: 10px; float: right;" /&gt;
+    <br /><cite>Robin Hrassnigg, CEO at Diabetizer</cite>
+    <p></p>
+  </blockquote>
+  <p dir="ltr">To supplement its health reporting web portal, Diabetizer created an app that tracks health data automatically. Leveraging the IBM Innovation Center in Switzerland, Diabetizer restructured the code for its web application for the myDiabetizer mobile application. myDiabetizer provides aggregated nutrition and fitness information to physicians from other medical devices and health tools. </p>
+  <p dir="ltr">Using IBM Bluemix and SoftLayer, Diabetizer was able to accelerate development and deployment timelines for services and capabilities, which led to a 30% reduction in operating costs.</p>
+</div>]]></content>
+                     <tags>diabetic,mydiabetizer</tags>
+                  </page>
+                  <page user="pclemmons">
+                     <title>Teaming up to drive healthcare innovation</title>
+                     <label>Teaming up to drive healthcare innovation</label>
+                     <content><![CDATA[<div><p dir="ltr">How can we address unmet patient needs related to chronic non-communicable diseases (NCDs) through smart, innovative healthcare delivery models? That is the challenge question developed by a global team of volunteers from IBM and Novartis as they collaborated to design and deliver the NCD Challenge Competition for the world leading universities and business schools.</p><p dir="ltr">Illnesses such as heart disease, stroke, cancer, asthma and diabetes are a global growing health concern with a far-reaching impact on the world healthcare systems. According to the World Health Organization, nearly two-thirds of all deaths, amounting to some 35 million per year, occur due to NCDs and almost 80 percent occur in developing countries. IBM and Novartis sponsored the competition working with academia to encourage the creation of new solutions that could make a difference to this worldwide health epide<img height="170" src="http://connections6.ibmcollabcloud.com/images/Doctor1.JPG" style="margin: 10px; float: right;" width="169" />mic.</p><p dir="ltr">Charlotte Newton, IBM Chief Innovation Officer for the Novartis Integrated Account, explained, The teams at each university were recruited by flyers detailing the challenge and both students and faculty were encouraged to participate. We engaged IBM and Novartis volunteers to mentor and coach the teams. The original brief encouraged big thinking, asking for innovations around Awareness, Technology Enablement and Disease Management. The university teams came up with the innovative solutions in the competition that ran from 16 June to 16 December 2011, with the winners Award Event in February 2012. IBM mentors offered the depth of their experience in the technology industry while Novartis volunteers contributed business model expertise in the pharmaceutical industry. Topic specific coaching was also provided to the teams through pre-recorded webinars.</p><h3 dir="ltr">2Vidas</h3><p dir="ltr">University of California Berkeley, Haas School of Business, was the NCD Challenge competition winner for the developing world with 2Vidas, a pharmacy-based membership program for low-to middle-income pregnant women to slow the growing diabetes epidemic in Mexico.</p><p dir="ltr">William Yartey, an IBM mentor for the 2Vidas project, described his volunteer involvement, I facilitated communication between the student team and the IBM/Novartis organizing team, and managed access to a Gestational Diabetes expert for the team. It was wonderful being part of team of young people looking to make the world a better place by finding a solution for diabetics among pregnant women.</p><p dir="ltr">What was so special about this competition was the level of mentorship from IBM, Novartis and Haas and how it was so baked into the competition, said Emily Ewell, leader of the Berkeley Haas team. The breadth and diversity of experience, the level of commitment and how generous everyone was with their time were truly amazing.</p><h3 dir="ltr">Dr. Diabetes</h3><p dir="ltr">Esade Business School, Ramon Llull University, Spain was the winner in the Developed World category. Their innovative project, Dr. Diabetes, is a total solution for diabetes awareness, monitoring and management based on smart phone technology, designed for urban China.</p><p dir="ltr">Everything about the NCD Challenge was wonderful, and will become my best memory during my MBA! said Ching Chia Hsu, team leader from Esade. Feras Nagadi, also from the Esade team, added, The collaboration between IBM and Novartis was amazing. It was a great learning experience.</p><p dir="ltr">Although the competition is over, it has created many new relationships among all of the participants and provided a platform for new business discussions between IBM and Novartis. Social innovation enables IBM to make a difference to the world, said Charlotte Newton.</p></div>]]></content>
+                     <tags>diabetes,ibm</tags>
+                  </page>
+                  <page user="simdray">
+                     <title>Types of Diabetes</title>
+                     <label>Types of Diabetes</label>
+                     <content><![CDATA[<div><p dir="ltr">Type 1 diabetes is usually diagnosed in children and young adults, and was previously known as juvenile diabetes. <img height="179" src="http://connections6.ibmcollabcloud.com/images/kids.png" style="margin: 10px; float: right;" width="270" />Only 5% of people with diabetes have this form of the disease. In type 1 diabetes, the body does not produce insulin. The body breaks down the sugars and starches you eat into a simple sugar called glucose, which it uses for energy. Insulin is a hormone that the body needs to get glucose from the bloodstream into the cells of the body. With the help of insulin therapy and other treatments, even young children can learn to manage their condition and live long, healthy lives.</p><p dir="ltr"><strong>Diabetes Symptoms</strong></p><p dir="ltr">The following symptoms of diabetes are typical. However, some people with type 2 diabetes have symptoms so mild that they go unnoticed.</p><p dir="ltr"><u>Common symptoms of diabetes: </u></p><ul dir="ltr">	<li>Urinating often</li>	<li>Feeling very thirsty</li>	<li>Feeling very hungry - even though you are eating</li>	<li>Extreme fatigue</li>	<li>Blurry vision</li>	<li>Cuts/bruises that are slow to heal</li>	<li>Weight loss - even though you are eating more (type 1)</li>	<li>Tingling, pain, or numbness in the hands/feet (type 2)</li></ul></div>]]></content>
+                     <tags>diabetes,type_1,type_2</tags>
+                  </page>
+               </pages>
+            </wiki>
+         </wikis>
+         <calendar>
+            <event user="simdray">
+               <title>The Tour de Cure is a series of fundraising cycling events held in 44 states nationwide to benefit the Association.</title>
+               <content><![CDATA[<p dir="ltr"></p>]]></content>
+               <location/>
+               <allDay>0</allDay>
+               <frequency/>
+               <interval/>
+               <custom>yes</custom>
+               <dateUntil/>
+               <dateStart>2016-06-30T15:00:00.000Z</dateStart>
+               <dateEnd>2016-06-30T16:00:00.000Z</dateEnd>
+               <byDay/>
+            </event>
+            <event user="simdray">
+               <title>Step Out our signature fundraising walk. More than 120,000 participants from 120 walk events across the country came together last year to raise over $24 million.</title>
+               <content><![CDATA[<p dir="ltr"></p>]]></content>
+               <location/>
+               <allDay>0</allDay>
+               <frequency/>
+               <interval/>
+               <custom>yes</custom>
+               <dateUntil/>
+               <dateStart>2016-05-31T15:00:00.000Z</dateStart>
+               <dateEnd>2016-05-31T16:00:00.000Z</dateEnd>
+               <byDay/>
+            </event>
+         </calendar>
+         <subcommunities nav="false"/>
+      </community>
+</communities>
+</icda>

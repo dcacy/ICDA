@@ -1,0 +1,118 @@
+<icda>
+
+	<!--
+		USERS: 
+			ANY user that creates content or is somehow referenced in content
+			in the XML input file must be listed in this section!
+	 -->
+	<users>
+		<user uid="lsuarez" mail="lsuarez@greenwell.com" password="UseYourPassword" />
+		<user uid="lingshin" mail="lingshin@greenwell.com" password="UseYourPassword" />
+		<user uid="marmond" mail="marmond@greenwell.com" password="UseYourPassword" />
+		<user uid="bgossens" mail="bgossens@greenwell.com" password="UseYourPassword" />
+		<user uid="branney" mail="branney@greenwell.com" password="UseYourPassword" />
+		<user uid="sdaryn" mail="sdaryn@greenwell.com" password="UseYourPassword" />
+		<user uid="abauer" mail="abauer@greenwell.com" password="UseYourPassword" />
+		<user uid="dmisawa" mail="dmisawa@greenwell.com" password="UseYourPassword" />
+		<user uid="eblanks" mail="eblanks@greenwell.com" password="UseYourPassword" />
+		<user uid="eelamon" mail="eelamon@greenwell.com" password="UseYourPassword" />
+		<user uid="fadams" mail="fadams@greenwell.com" password="UseYourPassword" />
+		<user uid="graynes" mail="graynes@greenwell.com" password="UseYourPassword" />
+		<user uid="gbandini" mail="gbandini@greenwell.com" password="UseYourPassword" />
+		<user uid="hreeds" mail="hreeds@greenwell.com" password="UseYourPassword" />
+		<user uid="mshani" mail="mshani@greenwell.com" password="UseYourPassword" />
+		<user uid="nolmos" mail="nolmos@greenwell.com" password="UseYourPassword" />
+		<user uid="pdumont" mail="pdumont@greenwell.com" password="UseYourPassword" />
+		<user uid="sdaryn" mail="sdaryn@greenwell.com" password="UseYourPassword" />
+		<user uid="siduma" mail="siduma@greenwell.com" password="UseYourPassword" />
+		<user uid="simdray" mail="simdray@greenwell.com" password="UseYourPassword" />
+		<user uid="smaiti" mail="smaiti@greenwell.com" password="UseYourPassword" />
+		<user uid="tamado" mail="tamado@greenwell.com" password="UseYourPassword" />
+		<user uid="siduma" mail="siduma@greenwell.com" password="UseYourPassword" />
+		<user uid="vhanley" mail="vhanley@greenwell.com" password="UseYourPassword" />
+		<user uid="rferrar" mail="rferrar@greenwell.com" password="UseYourPassword" />
+		<user uid="jhaj" mail="jhaj@greenwell.com" password="UseYourPassword" />
+		<user uid="pclemmons" mail="pclemmons@greenwell.com" password="UseYourPassword" />
+		<user uid="samcurman" mail="samcurman@greenwell.com" password="UseYourPassword" />
+		<user uid="jlendler" mail="jlendler@greenwell.com" password="UseYourPassword" />
+		<user uid="bheinz" mail="bheinz@greenwell.com" password="UseYourPassword" />
+		<user uid="ablanks" mail="ablanks@greenwell.com" password="UseYourPassword" />
+		<user uid="dmishkey" mail="dmishkey@greenwell.com" password="UseYourPassword" />
+		<user uid="rgestner" mail="rgestner@greenwell.com" password="UseYourPassword" />
+		<user uid="bjordan" mail="bjordan@greenwell.com" password="UseYourPassword" />
+	</users>
+	
+	<!-- 
+		IMPORT:
+			Only users listed in this section will have content imported from the XML input file.
+			All content from other users will be ignored.
+			
+			- To specify all users, enter a * wildcard
+			- To list specific users, enter a CSV list of uids from the users section
+			- To specify no users, leave it blank
+			
+			Example Scenario:  Create Communities for ONLY Dan Misawa and Frank Adams
+			Example Configuration:  <communities>dmisawa,fadams</communities>
+	 -->
+	<import>
+		<activities>*</activities>
+		<blogs>*</blogs>
+		<bookmarks>*</bookmarks>
+		<communities>*</communities>
+		<files>*</files>
+		<forums>*</forums>
+		<profiles>*</profiles>
+		<wikis>*</wikis>
+	</import>
+	
+	<!-- 
+		EXPORT:
+			Only users listed in this section will have content exported into the XML output file.
+			All content from other users will be ignored.
+			
+			- To specify all users, enter a * wildcard
+			- To list specific users, enter a CSV list of uids from the users section
+			- To specify no users, leave it blank
+			
+			Example Scenario:  Export Communities for ONLY Dan Misawa and Frank Adams
+			Example Configuration:  <communities>dmisawa,fadams</communities>
+	 -->
+	<export>
+		<activities></activities>
+		<blogs></blogs>
+		<bookmarks></bookmarks>
+		<communities></communities>
+		<files></files>
+		<forums></forums>
+		<profiles></profiles>
+		<wikis></wikis>
+	</export>
+	
+	<!-- 
+	*** WARNING! ALL IBM Connections content specified here will be deleted, not just content created by this application! ***
+	
+		DELETE:
+			Only users listed in this section will have content deleted in IBM Connections.
+			All content from other users will be ignored.
+			
+			- To specify all users, enter a * wildcard
+			- To list specific users, enter a CSV list of uids from the users section
+			- To specify no users, leave it blank
+			
+			Example Scenario:  Delete ALL Communities for ONLY Dan Misawa and Frank Adams
+			Example Configuration:  <communities>dmisawa,fadams</communities>
+			
+	*** WARNING! ALL IBM Connections content specified here will be deleted, not just content created by this application! ***
+	 -->
+	<delete>
+		<activities></activities>
+		<blogs></blogs>
+		<bookmarks></bookmarks>
+		<communities></communities>
+		<files></files>
+		<forums></forums>
+		<profiles></profiles>
+		<wikis></wikis>
+	</delete>
+	
+</icda>

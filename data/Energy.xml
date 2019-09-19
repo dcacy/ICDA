@@ -1,0 +1,403 @@
+<icda>
+<communities>
+      <community user="branney">
+         <title>Energy Savers Community</title>
+         <content><![CDATA[<p dir="ltr">A place to discuss all things renewable energy related.</p>]]></content>
+         <type>public</type>
+         <isExternal>false</isExternal>
+         <logo>4e27a1fb-9bd1-47c1-90d9-42b066e0622d.png</logo>
+         <tags>energy,renewable,saving</tags>
+         <members>
+            <member role="owner" user="branney"/>
+            <member role="member" user="vhanley"/>
+            <member role="member" user="lingshin"/>
+            <member role="member" user="gbandini"/>
+         </members>
+         <forums>
+            <forum user="branney">
+               <title>Energy Savers Community</title>
+               <content/>
+               <topics>
+                  <topic user="lingshin">
+                     <title>Looking for a Sharp Solar Power Inverter?</title>
+                     <content><![CDATA[
+    <p dir="ltr">
+      Anyone know where to get a relay for a Sharp Solar Power Inverter model JH-1600E?
+    </p>
+  ]]></content>
+                     <question>true</question>
+                     <answered>true</answered>
+                     <likes>
+                        <like user="gbandini"/>
+                     </likes>
+                     <replies>
+                        <reply user="gbandini">
+                           <title>Re: Looking for a Sharp Solar Power Inverter?</title>
+                           <content><![CDATA[<p dir="ltr">
+      Is it out warranty?
+    </p>
+    <p dir="ltr">
+      You could substitute any suitable relay that fits the requirements or a heavier duty version.
+    </p>]]></content>
+                        </reply>
+                        <reply user="vhanley">
+                           <title>Re: Looking for a Sharp Solar Power Inverter?</title>
+                           <content><![CDATA[<p dir="ltr">
+      Just do a Google search of the relay specs (whatever it says on it) and with a bit of luck you'll find someone selling the exact part required.
+    </p>
+    <p dir="ltr">
+      Most likely it's just a generic part and not something unique to your inverter.
+    </p>]]></content>
+                           <answer>true</answer>
+                        </reply>
+                     </replies>
+                  </topic>
+                  <topic user="vhanley">
+                     <title>Complete Newbie looking to install solar</title>
+                     <content><![CDATA[<div class="content" dir="ltr">
+      Hi All,
+    </div>
+    <div class="content" dir="ltr">
+      <br />
+       New to the forum &amp; completely uninitiated in all things solar.<br />
+      <br />
+       We have a two storey house, originally a 3 bedroom brick house but a large wooden clad lounge room has been added downstairs &amp; another 3 wooden clad bedrooms on the top storey.<br />
+      <br />
+       The house gets quite cold in winter. If the temperature gets above 40 degrees C at any stage in summer, the top floor seems to radiate heat into the whole house for the entire night.<br />
+      <br />
+       The house came with a large ducted air conditioning system that we have found too expensive to use. The lady of the house hides up in a small room in the house running a little electric radiant heater in winter. The kid I tend to huddle up under sleeping bags in the lounge room.<br />
+      <br />
+       We'd like to be able to make our house a bit more livable &amp; hopefully cut down on the electricity bills as well.<br />
+      <br />
+       My best guess at our average daily electricity consumption is aproximately 24kWh with about two thirds of it being peak.<br />
+      <br />
+       Our latest peak daily rates in c/kWh<br />
+       24.244 for the first 10.9589<br />
+       23.397 for the next 8.2192<br />
+       22.22 for the balance.<br />
+      <br />
+       I like the idea of getting some well engineered high quality panels that will last &amp; have high efficiency. I also like the idea of having an expandable system that is compatible with battery storage if the costs of solar &amp;/or battery storage drop significantly in the future. I have to try &amp; sell the lady of the house on whatever the up front costs are too though.<br />
+      <br />
+       I haven't got any quotes yet as I'd prefer to know what I should be looking for &amp; what to avoid prior to getting any pricing.<br />
+      <br />
+       Any recommendations that you have for a solar system or how to determine how worthwhile a solar system might be for us, (short of climbing up on the roof) would be greatly appreciated.<br />
+      <br />
+       If there are any pitfalls that I should be aware of, it would be great to find out about those too.<br />
+      <br />
+       At the moment, I am close to a blank slate.<br />
+      <br />
+       My apologies for such a long first post. I just figured that I am best off starting to talk to people who have been there &amp; done that.
+    </div>]]></content>
+                     <question>true</question>
+                     <likes>
+                        <like user="gbandini"/>
+                     </likes>
+                     <replies>
+                        <reply user="gbandini">
+                           <title>Re: Complete Newbie looking to install solar</title>
+                           <content><![CDATA[<p dir="ltr">
+      Welcome to the Energy Savers Commuity<br />
+      <br />
+       How well insulated is the house? Better insulation means lower heating and cooling costs, and is perhaps best looked at first. The large ducted ACs are generally not very efficient- smaller reverse cycle inverter units in the 2-3kW capacity range are of significantly higher efficiency, great for heating and cooling. Small radiators are not very good, unless you happen to be sitting right in front of them, and even then only the side facing it stays warm, or hot if you are too close! A 2kW reverse cycle inverter AC will heat (and cool) a large well insulated room for much less cost and greater compfort levels than a radiator or gas heater.<br />
+       Lithium batteries for grid-connected systems are still expensive, but have come down significantly in recent times, particularly since Tesla announced their entry into the market, although their product wont be in Australia until next year sometime. Others such as LG are compatible with some inverters now, and are competitively priced, and available now.<br />
+       Are you looking to purchase a solar system outright, or lease? Leasing puts you ahead financially immediately, due to zero up front cost. However, in the long term purchasing upfront will put you ahead, assuming you don't have any major system failures. You'd be up for a new inverter every now and then if purchasing a system.<br />
+      <br />
+       What about your hot water? Evacuated tube solar or a heat pump are the most efficient means of providing hot water. Heating water can be a significant part of any household's energy bill, particularly if anyone takes very long showers!
+    </p>]]></content>
+                           <reply user="vhanley">
+                              <title>Re: Complete Newbie looking to install solar</title>
+                              <content><![CDATA[<p dir="ltr">
+      Hey George,<br />
+      <br />
+       Thanks for getting back to me so quickly.<br />
+      <br />
+       The article about consumers moving to battery storage was interesting. I was sort of anticipating that it would come about at some stage but still thought it was a way off being affordable yet. Hopefully the market will get flooded with good low cost batteries sooner rather than later.<br />
+      <br />
+       The roof of the second floor is well insulated. As for the rest of the house, that's a bit dubious. I would have to say that most likely it is not.<br />
+      <br />
+       We had worked out that the ducted air conditioning that was already installed when we bought the house was too expensive to use.<br />
+      <br />
+       We don't have solar hot water, just an off peak electric system. There are two adults &amp; one kid in the house. None of us take particularly long showers. We only just replaced the water tank not long ago with a stainless steel tank. Do you think that solar hot water is still worth looking at?<br />
+      <br />
+       I forgot to mention that gas is not available to us, so we are entirely reliant on electricity.<br />
+      <br />
+       We use the clothes drier a lot unfortunately. I try &amp; hang the clothes on the line where possible but the lady of the house uses the drier every time she washes clothes. She won't change as she tends to work long hours &amp; we have a dog. She thinks that the drier gets all of the dog hair off our clothes, (as well as being convenient for her)<br />
+      <br />
+       We replaced our stove top recently from an old style one with the cast iron plates to a good induction one, so shouldn't use too much energy with that. We upgraded the oven too. It has quadruple glazing on the front glass but is pyrolytic cleaning, so don't know if that ends up more efficient overall.<br />
+      <br />
+       Our house doesn't face true north either. I got approximate measurements of the top roof &amp; it's approximate solar capacity if it were facing true north.
+    </p>]]></content>
+                           </reply>
+                        </reply>
+                     </replies>
+                  </topic>
+               </topics>
+            </forum>
+         </forums>
+         <bookmarks/>
+         <files/>
+         <blogs>
+            <communityblog user="branney">
+               <title>Energy Savers Community</title>
+               <handle>4e27a1fb-9bd1-47c1-90d9-42b066e0622d</handle>
+               <summary/>
+               <posts>
+                  <post user="branney">
+                     <title>Get your power sunny-side up</title>
+                     <content><![CDATA[<h2 class="h2 head-callout__title" dir="ltr">Find solar program choices to fit your life</h2>
+
+
+
+<p dir="ltr">Did you know that your electric supply already contains some solar energy? It&rsquo;s true. We&rsquo;re investing in economical, large solar projects as part of our energy mix so we can deliver it to all of our customers. And for those who prefer to power their lives with even more, we offer a range of sunny solutions.</p>
+
+
+
+<p dir="ltr"><b>Get the skinny on solar.</b> If you&rsquo;ve just started researching solar energy or are already participating and want to learn more, you can get the basics on how solar power works, or scan through the rest of our solar energy info.</p>
+
+
+
+<p dir="ltr"><b>Ready to catch a few rays?</b> If you&rsquo;re interested in participating in a solar program, here are a few factors to consider:</p>
+
+
+
+<ul dir="ltr">
+
+	<li>Do you rent or own?</li>
+
+	<li>Are your roots firmly planted at your current address, or is there a possible move in your future?</li>
+
+	<li>Are you open to installing roof-top panels?</li>
+
+	<li>How much responsibility do you want for maintenance?</li>
+
+	<li>How much can you afford to spend, upfront?</li>
+
+</ul>
+
+
+
+<p dir="ltr"><a href="http://connections6.ibmcollabcloud.com/images/solarpanal.jpg" target="_blank"><img alt="image" height="111" src="http://connections6.ibmcollabcloud.com/images/solarpanal.jpg" style="display: block; margin: 1em 1em 0pt 0pt; float: left;" width="170"></img></a></p>
+
+
+
+<p dir="ltr">No matter the answers, we have solar solutions to fit your lifestyle. And don&rsquo;t forget to consider wind power, too.</p>
+
+
+
+<div class="slide-toggle__section js-thing" dir="ltr">
+
+<div class="slide-toggle__body wysiwyg">
+
+<p>Your power forecast &ndash; bright and sunny. We&rsquo;re happy to offer several different ways you can participate in a solar program. Here&rsquo;s how.</p>
+
+
+
+<p style=" margin-left: 20.0px;"><b>1. Catch your own rays.</b> Install your own panels on your roof. If you own your home, are firmly rooted in your community and/or don&rsquo;t mind the up-front investment, this option might be right for you.</p>
+
+
+
+<ul>
+
+	<li style=" margin-left: 20.0px;">Our<b> Solar*Rewards&reg;</b> program offers incentives and credits that can help make it more affordable.</li>
+
+	<li style=" margin-left: 20.0px;"><b>Made by Digital Energy:</b> This program, offered by the Department of Commerce, is another way to get incentives for installing a PV system.</li>
+
+</ul>
+
+
+
+<p style=" margin-left: 20.0px;"><b>2. Catch rays using shared panels.</b> Buy or lease a share of a solar garden. If you&rsquo;re a renter or condo-owner, aren&rsquo;t sure how long you&rsquo;ll be at your address, or can&rsquo;t/don&rsquo;t want to install panels on your roof, this option might be right for you. Our <b>Solar*Rewards Community&reg;</b> program gives you credit on your bills for participating in a garden.</p>
+
+</div>
+
+</div>]]></content>
+                     <likes>
+                        <like user="branney"/>
+                        <like user="lingshin"/>
+                        <like user="gbandini"/>
+                        <like user="vhanley"/>
+                     </likes>
+                     <comments>
+                        <comment user="gbandini">
+                           <content><![CDATA[I really like the shared panels program.  Works great for my condo.]]></content>
+                        </comment>
+                        <comment user="vhanley">
+                           <content><![CDATA[The Solar Rewards program made it easy for me to go green :-)]]></content>
+                        </comment>
+                     </comments>
+                  </post>
+                  <post user="branney">
+                     <title>Solar Gardens- The future looks bright.</title>
+                     <content><![CDATA[<h3 dir="ltr">Community Solar Gardens - Working with neighbors and communities to create new solar energy.</h3>
+
+
+
+<p dir="ltr">Community solar gardens let you support a solar garden with nothing on your roof and no hands-on maintenance &ndash; it&rsquo;s all made possible through Digital Energy&#39;s Solar* Rewards Community&reg; program.</p>
+
+
+
+<h3 dir="ltr">How does it work?</h3>
+
+
+
+<p dir="ltr">A solar garden operator installs a community solar garden, then sells or leases subscriptions for a portion of the garden&rsquo;s solar output directly to business and residential customers like you. The solar garden operator owns and maintains the garden and the relationships with subscribers.</p>
+
+
+
+<p dir="ltr">Digital Energy&nbsp; works with the solar garden operator to connect it to the Digital Energy grid and then credits a garden subscriber&rsquo;s bill for their portion of solar energy produced by the garden.</p>
+
+
+
+<p dir="ltr"><br>
+
+These gardens mean our customers, like you, get a wide variety of new options to choose from, since subscription terms and costs vary from garden to garden. More than 1,000 solar gardens are proceeding through the application process, and it&rsquo;s up to these solar garden operators to determine when and how to sell subscriptions, under what terms and for how much. Our job is to help them understand what&rsquo;s needed to connect the solar garden to our electricity system once the solar garden is done, and we are working diligently to analyze and approve these gardens. So far we have given more than 100 solar gardens the information and approval they need to move forward and start construction. Some are already underway; others are making a final decision about how to proceed.</p>
+
+
+
+<p dir="ltr">&nbsp;</p>
+
+
+
+<p dir="ltr"><b>Overview for Subscribers</b></p>
+
+
+
+<ul dir="ltr">
+
+	<li>Subscribers purchase or lease interests of a solar garden system developed by a Garden Operator.</li>
+
+	<li>The Garden Operator is responsible for subscriber management such as signing up Subscribers and interfacing with subscribers.</li>
+
+	<li>Subscribers will receive a credit on their electric bill for the energy produced by the garden. Subscribers in a Solar*Rewards Community garden must be Xcel Energy retail electricity customers.</li>
+
+	<li>Subscribers must live in the same or adjacent county as the solar garden.</li>
+
+</ul>
+
+
+
+<p dir="ltr"><b>How to Participate</b></p>
+
+
+
+<p dir="ltr">To participate as a subscriber you will need to work with a Garden Operator that is setting up a solar garden in your community. That Garden Operator will manage your participation and gather the paperwork required for you to participate.</p>
+
+
+
+<p dir="ltr">You will receive a Solar*Rewards Community production bill credit on your monthly bill. The credit is equal to the customer&rsquo;s share of garden production multiplied by the SRCS Credit found in the tariff. Your total electric use will be billed as it is billed today, and the production credit will be applied against it.</p>]]></content>
+                     <likes>
+                        <like user="branney"/>
+                     </likes>
+                  </post>
+                  <post user="lingshin">
+                     <title>Power companies going the way of the landline by 2030?</title>
+                     <content><![CDATA[<p dir="ltr">The Rocky Mountain Institute released a report today projecting the economics of solar power over the next 35 years. You can <a href="http://www.rmi.org/electricity_load_defection" target="_blank">download it here</a> (you&#39;ll have to give them an email address, but the report is free).<br>
+
+<br>
+
+The headline-grabbing conclusion is that if historical trends continue (a big if, of course), with 10-15 years it will be cheaper in a lot of places to be completely off-grid with solar panels and batteries than grid tied. They also suggest that within 15 years up to half of residential customers in some places could go off grid.<br>
+
+<br>
+
+I think this conclusion is extreme: for starters, fewer than half of homes in many places are even suitable for solar panels (due to shading, roof orientation, etc.). But the core conclusion makes sense, in that cheaper PV and battery prices in the not too distant future could lead to a situation where grid operators have to compete at a disadvantage to the off grid option.<br>
+
+<a href="http://connections6.ibmcollabcloud.com/images/powerlines.jpg" target="_blank"><img alt="image" height="233" src="http://connections6.ibmcollabcloud.com/images/powerlines.jpg" style="display: block; margin: 1em 1em 0pt 0pt; float: left;" width="154"></img></a><br>
+
+IMHO, this would be a very bad outcome. Grid-tied solar is inherently more efficient than using batteries, since the grid provides a way to deliver excess generation to people who can use it immediately, rather than taking the losses (both financial and energetic) of storing the extra in a battery. So even in an age of cheap and ubiquitous solar power, we want to encourage people to stay connected to the grid rather than cutting the cord.<br>
+
+<br>
+
+So we need to have policies and pricing structures which encourage customers to stay on-grid. But that doesn&#39;t seem to be the approach utilities have been pursuing. Instead, they want to impose punitive connection fees (as in Arizona) or demand-based pricing, ideas which may discourage grid-connected customers from installing solar; but also encourage solar-powered homes to go off-grid.<br>
+
+<br>
+
+Power companies are effectively betting that customers would rather be grid-tied than solar-powered, and they are trying to make it harder to be both. At some point, if prices continue to drop, they will lose that bet big-time.<br>
+
+<br>
+
+All my opinion of course. But I wish more utilities would think in terms of engineering their future role in a world of cheap residential solar, rather than trying to throw obstacles in the face of technological change.</p>]]></content>
+                     <tags>power,solar,grid</tags>
+                     <likes>
+                        <like user="vhanley"/>
+                     </likes>
+                     <comments>
+                        <comment user="vhanley">
+                           <content><![CDATA[Interesting thoughts Ling.  I agree a Solar to Grid would make more sense then cutting the cord to the power company.]]></content>
+                        </comment>
+                     </comments>
+                  </post>
+                  <post user="branney">
+                     <title>Top 10 ways wind energy is a reliable and affordable Clean Power Plan solution.</title>
+                     <content><![CDATA[<p dir="ltr">With the U.S. Environmental Protection Agency (EPA) publishing the final Clean Power Plan (CPP) in the Federal Register today, along with the accompanying draft federal plan and state model trading plans, it&rsquo;s a good time to examine the ways wind energy can help make the CPP achievable for states in a cost-effective and reliable manner.</p>
+
+
+
+<p dir="ltr">&ldquo;Reducing carbon pollution by deploying renewable energy will keep electricity affordable and reliable, create jobs, and support local economic development. Renewable energy technologies have become integral and reliable parts of the U.S. electricity supply. Meeting the Clean Power Plan is very doable, and the U.S.-made renewable energy industries are ready to do so affordably,&rdquo;&nbsp; in previously commenting about the carbon reduction rule.</p>
+
+
+
+<p dir="ltr">Real-world data and recent studies show low-cost wind energy allows states and electric generators to affordably and reliably cut the most carbon. Here are the to<a href="http://connections6.ibmcollabcloud.com/images/windmany.jpg" target="_blank"><img alt="image" height="307" src="http://connections6.ibmcollabcloud.com/images/windmany.jpg" style="display: block; margin: 1em 0pt 0pt 1em; float: right;" width="202"></img></a>p 10 ways states can look to wind energy as a &ldquo;no regrets&rdquo; solution to meet the EPA&rsquo;s first-ever carbon pollution limits for existing power plants.</p>
+
+
+
+<p dir="ltr">1) The nonpartisan Energy Information Administration (EIA) found that wind energy is consistently one of the lowest-cost options for states to reduce emissions in order to comply with the CPP. Earlier this year, the EIA reported that wind energy accounts for 57% of the economically optimal compliance mix for the CPP. In fact, wind energy played a leading role across a dozen scenarios examined by EIA.&nbsp;</p>
+
+
+
+<p dir="ltr">2) As a zero emission resource, wind energy provides more &ldquo;bang for the buck&rdquo; for CPP compliance relative to resources with some emissions. For example, because one megawatt-hour (MWh) of gas generation emits nearly half as much CO<sub>2</sub> as one MWh of coal generation, nearly twice as many MWh of coal generation must be displaced by gas to achieve the same level of emissions reductions, that zero-emission option like wind would displace. This helps wind energy provide compliance flexibity while reducing the magnitude of change that is required to the existing generation mix, allowing for more cost-effective compliance solutions.</p>
+
+
+
+<p dir="ltr">3)Advances in technology and falling prices have allowed wind energy to become such an efficient option for complying with the CPP. Wind&rsquo;s costs have dropped 66% since 2009, while recent technological developments allow for wind installation in new regions.</p>
+
+
+
+<p dir="ltr">4) Growing wind means growing the economy. Wind power currently supports 73,000 well-paying&nbsp; American jobs. It spurs growth in manufacturing, with 500 facilities located in 43 states around the country. Continuing to expand wind power so that it supplies 20% of the U.S. electricity mix by 2030 can create 380,000 well-paying jobs according to the <a href="http://energy.gov/eere/wind/wind-vision" target="_blank">Department of Energy</a>.</p>
+
+
+
+<p dir="ltr">5) Wind energy already helps maintain a stable and reliable electricity grid, currently creating enough electricity to power the equivalent of 18 million homes. At times, wind has supplied up to 40% of total demand for electricity on the main Texas power grid and 60% of demand in Colorado.</p>
+
+
+
+<p dir="ltr">6) Even more importantly, wind helps keep the power running when conventional generation has challenges. During last year&rsquo;s polar vortex, wind power reliably generated electricity while traditional fossil fuel power plants failed in the extreme cold. Wind not only helped keep the lights on, it saved Mid-Atlantic and Midwest consumers over $1 billion in just two days as the price of natural gas spiked.</p>
+
+
+
+<p dir="ltr">7) Wind power helps keep energy costs steady for consumers over the long-term as well. A recent Department of Energy study found that electric prices are 20% less sensitive to changes in natural gas prices in scenarios with large amounts of wind energy.</p>
+
+
+
+<p dir="ltr">8) The EIA&rsquo;s analysis projected that natural gas prices would increase by over a dollar due to increased demand from the CPP. However, the EIA also found that this price spike would reverse and eventually be eliminated as deployment of renewable energy ramped up and reduced electric sector dependence on natural gas.</p>
+
+
+
+<p dir="ltr">9) The goal of the Clean Power Plan is to reduce carbon emissions, and increasing our nation&rsquo;s share of wind energy does just that. In 2014, wind energy reduced carbon pollution by 126 million metric tons, the equivalent of removing 26 million cars from the road and reducing power sector emissions by more than 5%.</p>
+
+
+
+<p dir="ltr">10) Deploying wind energy will reduce other harmful forms of air pollution, including particulate matter and nitrogen oxides. DOE&rsquo;s Wind Vision projected that producing 35% of America&rsquo;s electricity from wind energy by 2050 will prevent 21,700 premature deaths.</p>]]></content>
+                     <tags>clean_power,energy,wind</tags>
+                  </post>
+               </posts>
+            </communityblog>
+         </blogs>
+         <wikis>
+            <wiki user="branney">
+               <title>Energy Savers Community</title>
+               <summary><![CDATA[A place to discuss all things renewable energy related.]]></summary>
+               <label>W836037c11bd6_42dc_9ef1_64af6e0eecc7</label>
+               <visibility>PUBLIC_TO_VIEWERS</visibility>
+               <pages>
+                  <page user="branney">
+                     <title>Welcome to Energy Savers Community</title>
+                     <label>Welcome to Energy Savers Community</label>
+                     <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html [<!ENTITY amp "&#38;#38;"><!ENTITY lt "&#60;#60;"><!ENTITY gt "&#62;#62;"><!ENTITY nbsp "&#160;"><!ENTITY apos "&#39;"><!ENTITY quot "&#34;">]><div><p dir="ltr" style="margin: 5px 0px 0px; color: rgb(34, 34, 34); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: center; background-color: rgb(255, 255, 255);"><span style="font-size: 26px;"><strong style="font-weight: bold;">This is the place to discuss all things about Energy Savings</strong></span></p><p dir="ltr" style="margin: 5px 0px 0px; color: rgb(34, 34, 34); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</p><p dir="ltr" style="margin: 5px 0px 0px; color: rgb(34, 34, 34); font-family: &apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: center; background-color: rgb(255, 255, 255);">&nbsp;</p><table align="center" border="0" cellpadding="0" cellspacing="0" dir="ltr" height="1295" style="background-color: rgb(255, 255, 255); border: 1px dotted rgb(211, 211, 211); color: rgb(34, 34, 34); font-family: helvetica neue,helvetica,arial,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; width: 602px;" width="595">	<tbody>		<tr>			<td align="left" style="border: 0px dotted rgb(211, 211, 211); margin: 0px; padding: 5px; width: 589px;" valign="top">			<table border="0" cellpadding="0" cellspacing="0" height="1059" style="border: 1px solid rgb(175, 175, 175); box-shadow: 2px 2px 1px 1px rgb(225, 225, 225); margin: 0px; padding: 0px;" width="619">				<tbody>					<tr>						<td style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px 0px; width: 357px; text-align: center;"><a href="http://connections6.ibmcollabcloud.com/communities/service/html/communityoverview?communityUuid=8a89ac84-5a55-4812-a4f6-c2ca7d7634d9#fullpageWidgetId=Wa2de1eaae981_4edc_a567_722d5c178213"><img src="http://connections6.ibmcollabcloud.com/images/windturbine.jpg" /></a></td>					</tr>					<tr>						<td height="40" style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px 0px; width: 357px; text-align: center; line-height: 30px; font-size: 28px; font-weight: 200; color: rgb(4, 80, 115) !important;" valign="middle"><a href="http://connections6.ibmcollabcloud.com/communities/service/html/communityoverview?communityUuid=4e27a1fb-9bd1-47c1-90d9-42b066e0622d#fullpageWidgetId=Wdb460d303411_46f6_8542_fac3c2658128" style="text-decoration: none; color: rgb(25, 112, 176);">The&nbsp;Energy&nbsp;Forums</a></td>					</tr>					<tr>						<td height="25" style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px 0px; text-align: center; font-size: 15px; color: rgb(4, 80, 115) !important;"><span style="font-size:22px;">Please ask your question here</span></td>					</tr>					<tr>						<td style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px; width: 357px; text-align: center; line-height: 24px; font-size: 20px; font-weight: 100; color: rgb(54, 58, 62) !important;">&nbsp;</td>					</tr>					<tr>						<td style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px; width: 357px; text-align: center; line-height: 24px; font-size: 20px; font-weight: 100; color: rgb(54, 58, 62) !important;"><a href="http://connections6.ibmcollabcloud.com/blogs/8a89ac84-5a55-4812-a4f6-c2ca7d7634d9?lang=en_us"><img src="http://connections6.ibmcollabcloud.com/images/windwide.jpg" /></a></td>					</tr>					<tr>						<td style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px; width: 357px; text-align: center; line-height: 24px; font-size: 20px; font-weight: 100; color: rgb(54, 58, 62) !important;"><a href="http://connections6.ibmcollabcloud.com/blogs/4e27a1fb-9bd1-47c1-90d9-42b066e0622d?lang=en_us" style="text-decoration: none; color: rgb(25, 112, 176);">The&nbsp;Energy&nbsp;Blogs</a></td>					</tr>					<tr>						<td style="border: 0px dotted rgb(211, 211, 211); padding: 10px 15px; width: 357px; text-align: center; line-height: 24px; font-size: 20px; font-weight: 100; color: rgb(54, 58, 62) !important;">Place to share your ideas about how you can Save Energy.</td>					</tr>				</tbody>			</table>			</td>		</tr>	</tbody></table></div>]]></content>
+                  </page>
+               </pages>
+            </wiki>
+         </wikis>
+         <subcommunities nav="false"/>
+      </community>
+ </communities>
+</icda>
